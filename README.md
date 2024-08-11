@@ -7,6 +7,8 @@ This repository contains a PySide6-based GUI application for calculating the ind
 
 ![Screenshot](Figure_1.png)
 
+![SCREENSHOT](Figure_12.png)
+
 # A stand alone EXE program version is also available under release for Windows.
 
  Many Antivirus will flag this open source project as malware or suspected malware as this is an unsigned executable and I refuse to pay the software mobsters any money for buying a code signing certificate. The source code is hosted here for anyone to peruse and judge.

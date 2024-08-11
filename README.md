@@ -1,5 +1,7 @@
 # sympy-integrater
-GUI Graphical front end that automatically performs integration on supplied expression and graphs the expression 
+GUI Graphical front end that automatically performs integration on supplied expression and graphs the expression.
+
+[Python Program](https://github.com/kephalian/sympy-integrater/blob/main/sympy-integrater.py)
 
 # Integration Calculator with PySide6 and Sympy
 
